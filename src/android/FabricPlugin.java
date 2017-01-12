@@ -33,6 +33,7 @@ import java.util.Currency;
 import java.util.Iterator;
 
 import io.fabric.sdk.android.Fabric;
+import com.sarriaroman.fabric.JavaScriptException;
 
 public class FabricPlugin extends CordovaPlugin {
 	private final String pluginName = "FabricPlugin";
